@@ -36,7 +36,7 @@ html, body, #map {
 ```
 
 **Following is what you need for this book:**
-Hands-On Dependency Injection in Go is for programmers with a few year s experience in any language and a basic understanding of Go. If you wish to produce clean, loosely coupled code that is inherently easier to test, this book is for you.
+Hands-On Dependency Injection in Go is for programmers with a few years experience in any language and a basic understanding of Go. If you wish to produce clean, loosely coupled code that is inherently easier to test, this book is for you.
 
 ## Getting the source
 
